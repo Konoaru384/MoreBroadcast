@@ -75,5 +75,12 @@ This project is licensed under the MIT License.
 <a href="https://choosealicense.com/licenses/mit/">https://choosealicense.com/licenses/mit/</a>
 
 <p align="center">
+<h2 align="center">🌐 More about me</h2>
+<p align="center">
+<a href="https://konoara.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" />
 </p>
