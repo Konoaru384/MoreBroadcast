@@ -41,7 +41,7 @@
 <h2>Support</h2>
 
 For support, contact:  
-realkonoaru on discord ! or in my server : <a href="https://discord.gg/Bbx28xhrKE"><My Discord /a>
+realkonoaru on discord ! or in my server : <a href="https://discord.gg/Bbx28xhrKE">My Discord</a>
 you can also reach out via the Exiled community.
 
 <hr>
