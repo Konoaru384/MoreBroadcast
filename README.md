@@ -27,6 +27,29 @@
   </tr>
 </table>
 
+<h2>Core Features</h2>
+
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Description</th>
+  </tr>
+
+  <tr>
+    <td>Auto Broadcast</td>
+    <td>
+      Custom Timed Broadcast to do publicity for exemple.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Welcome Broadcast</td>
+    <td>
+A broadcast is sent when a player joins the server for the first time !<br>How does it work ?<br>The player's SteamID64 is saved in:<br>.config/EXILED/Configs/players.txt<br>When a player joins, the plugin checks if their SteamID64 is already in the file.<br>If it is not, the plugin sends: “Welcome (player name) to the server, you are the (unique player count)th player on the server !”
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 <h2>Installation</h2>
